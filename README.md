@@ -31,7 +31,7 @@ Things you may want to cover:
 | -------- | ------ | ----------- |
 | name     | string | null: false | 
 | email    | string | null: false |
-|password  | string | null: false |
+| password | string | null: false |
 
 ### Association
 
